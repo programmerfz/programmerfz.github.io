@@ -1,2 +1,2 @@
 # programmerfz.github.io
-for programmerfz.com
+for pages.programmerfz.com
